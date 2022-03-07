@@ -1,0 +1,26 @@
+@media screen and (min-width: 1088px) {
+  #my-navbar-menu div {flex: 1;}
+
+  #my-navbar-menu div div {
+    flex: 1;
+    justify-content: center;
+  }
+}
+
+#my-navbar-center, #my-navbar-menu, #navbar-item, #navbar-item a img {min-height: 125px;}
+
+#navbar {background-color: #1B3995;}
+
+.has-navbar-fixed-top .navbar-menu .navbar-start {
+  flex: 1;
+  justify-content: center;
+}
+
+.has-navbar-fixed-top{
+  background-color: #3d3d3d;
+}
+
+.has-navbar-fixed-top .navbar-menu .navbar-start a {
+  color: white;
+  opacity: 100%;
+}
