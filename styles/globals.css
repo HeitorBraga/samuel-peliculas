@@ -96,3 +96,9 @@ h1.wpp-color {
   height: 100%;
   object-fit: cover;
 }
+
+.service-images img {
+  width: 100% !important;
+  height: 100%;
+  object-fit: cover;
+}
