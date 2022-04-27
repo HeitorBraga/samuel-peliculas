@@ -118,11 +118,11 @@ export default function Home() {
           <div className="columns">
             <div className="column">
               <figure className="image service-images"><Image src="/pelicula-termica.jpeg" width="1000px" height="1000px" alt="película térmica" /></figure>
-              <h1 className="has-text-centered title is-4">Película Branca</h1>
+              <h1 className="has-text-centered title is-4">Película Térmica</h1>
             </div>
             <div className="column">
               <figure className="image service-images"><Image src="/listrada-escritorios.jpeg" width="1000px" height="1000px" alt="película listrada para escritórios" /></figure>
-              <h1 className="has-text-centered title is-4">Película listrada para escritórios</h1>
+              <h1 className="has-text-centered title is-4">Película Listrada para Escritórios</h1>
             </div>
             <div className="column">
               <figure className="image service-images"><Image src="/fume.jpeg" width="1000px" height="1000px" alt="película fumê" /></figure>
