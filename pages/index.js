@@ -111,13 +111,26 @@ export default function Home() {
               <h1 className="has-text-centered title is-4">Windowpremium</h1>
             </div>
             <div className="column">
-              <figure className="image service-images"><Image src="/apartamento.jpeg" width="1000px" height="1000px" alt=" sacada de apartamento" /></figure>
+              <figure className="image service-images"><Image src="/apartamento.jpeg" width="1000px" height="1000px" alt="sacada de apartamento" /></figure>
               <h1 className="has-text-centered title is-4">Sacada de Apartamento</h1>
+            </div>
+          </div>
+          <div className="columns">
+            <div className="column">
+              <figure className="image service-images"><Image src="/pelicula-termica.jpeg" width="1000px" height="1000px" alt="película térmica" /></figure>
+              <h1 className="has-text-centered title is-4">Película Branca</h1>
+            </div>
+            <div className="column">
+              <figure className="image service-images"><Image src="/listrada-escritorios.jpeg" width="1000px" height="1000px" alt="película listrada para escritórios" /></figure>
+              <h1 className="has-text-centered title is-4">Película listrada para escritórios</h1>
+            </div>
+            <div className="column">
+              <figure className="image service-images"><Image src="/fume.jpeg" width="1000px" height="1000px" alt="película fumê" /></figure>
+              <h1 className="has-text-centered title is-4">Película Fumê</h1>
             </div>
           </div>
         </section>
       </div>
-
       <Footer />
     </>
   )
